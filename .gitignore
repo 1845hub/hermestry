@@ -1,0 +1,22 @@
+# Byte-compiled / virtualenv
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.env.*
+
+# Python
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+dist/
+*.log
+
+# Others
+.DS_Store
